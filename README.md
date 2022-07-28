@@ -4,11 +4,11 @@ This is the Github repository for the git workshop at the Baker lab on the 29th 
 
 #### Setup for the course
 
-1. Make sure git is installed on your machine. If not installed you can download it here: https://git-scm.com/downloads - download, follow the instructions and afterwards verify that git is installed on your computer by typing the following in the terminal: ```git --version```
+1. Make sure git is installed on your machine. If not installed you can download it here: <https://git-scm.com/downloads> - download it, follow the instructions and afterwards verify that git is installed on your computer by typing the following in the terminal: ```git --version```
 2. Configure name and e-mail: 
 ```git config --global user.name "Your Name"```
 ```git config --global user.email "your@email.com"```
 
-4. Make a github account so you can be added to the project: 
+4. Make a github account so you can be added to the project: <https://github.com/>
 5. (Optional) Download a git GUI - I recommend Smartgit or GitKraken, but there a ton of different tools available
-6. Clone the git repository to a directory of your choice (recommend a specific directory)
+6. Clone the git repository to a directory of your choice (use a directory of your choice that you will only use for this project)
