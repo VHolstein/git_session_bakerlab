@@ -11,4 +11,4 @@ This is the Github repository for the git workshop at the Baker lab on the 29th 
 
 4. Make a github account so you can be added to the project: <https://github.com/>
 5. (Optional) Download a git GUI - I recommend Smartgit or GitKraken, but there a ton of different tools available
-6. Clone the git repository to a directory of your choice (use a directory of your choice that you will only use for this project)
+6. Clone the git repository to a directory of your choice (use a directory of your choice that you will only use for this project): ```cd directory/of/your/choice``` ``` git clone https://github.com/VHolstein/git_session_bakerlab```
