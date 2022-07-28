@@ -8,6 +8,7 @@ This is the Github repository for the git workshop at the Baker lab on the 29th 
 2. Configure name and e-mail: 
 ```git config --global user.name "Your Name"
 git config --global user.email "your@email.com"```
+
 4. Make a github account so you can be added to the project: 
 5. (Optional) Download a git GUI - I recommend Smartgit or GitKraken, but there a ton of different tools available
 6. Clone the git repository to a directory of your choice (recommend a specific directory)
