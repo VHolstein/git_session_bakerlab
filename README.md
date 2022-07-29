@@ -23,3 +23,5 @@ This is the Github repository for the git workshop at the Baker lab on the 29th 
 + Push to remote ```git push <remote> <branch>```
 + Pull from remote ```git pull <remote> <branch>```
 + Checkout remote branch ```git checkout testing```
++ Setup token authentication ```git remote set-url origin https://<githubtoken>@github.com/<username>/<repositoryname>.git```
+    + For this project: ```git remote set-url origin https://<githubtoken>@github.com/VHolstein/git_session_bakerlab.git```
