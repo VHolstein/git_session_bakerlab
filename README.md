@@ -19,7 +19,7 @@ This is the Github repository for the git workshop at the Baker lab on the 29th 
 + Track new file: ```git add filename.file```
 + Stage a file: ```git add filename.file```
 + View commit history: ```git log```
-+ Clone repository: ```git cline host@repository```
++ Clone repository: ```git clone host@repository```
 + Push to remote ```git push <remote> <branch>```
 + Pull from remote ```git pull <remote> <branch>```
 + Checkout remote branch ```git checkout testing```
